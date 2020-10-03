@@ -1,0 +1,29 @@
+body{
+  background-color: #ffffdd;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+img {
+  width: 150px;
+  height: 230px;
+}
+/*---------------sudo-class-------------
+img:hover{
+  background-color: gold;
+}*/
+/* ----------------class selector---------------*/
+
+/*.hob_head{
+  color: Red;
+}*/
