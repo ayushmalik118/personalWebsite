@@ -10,6 +10,7 @@ h3{
 hr{
   border-style: none;
   border-top-style: dotted;
+  border-radius: 5px;
   border-width: 5px;
   border-color: grey;
   width: 5%;
